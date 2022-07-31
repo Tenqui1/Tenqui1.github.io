@@ -1,10 +1,11 @@
 
+<!DOCTYPE html>
 <html>
   <head>
     
 <meta charset="utf-8" >
 
-<title>Tenqui_blog</title>
+<title>xx龙=小b崽子（确信） | Tenqui_blog</title>
 <meta name="description" content="一个个人博客">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -15,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://Tenqui1.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -77,94 +84,37 @@
 
 
       <div class="content-container">
-        
-        
-<section class="post-item">
-    <div class="content">
-      <a href="https://Tenqui1.github.io/post/注意/">
-        <h2 class="post-title">注意</h2>
-      </a>
-      <div class="post-abstract">
-        
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2022/07/30</span>
-        
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
+        <div class="post-detail">
+          
+          <h2 class="post-title">xx龙=小b崽子（确信）</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2022/07/31</span>
             
-              <a href="https://Tenqui1.github.io/tag/j1wgEC_td/">
-                Gridea
-                
-              </a>
-            
-          </span>
-        
-      </div>
-    </div>
-    
-      <a href="https://Tenqui1.github.io/post/注意/">
-        <div class="feature-container" style="background-image: url('https://Tenqui1.github.io/post-images/注意.jpg')">
+          </div>
+          <div class="post-content" v-pre>
+            <p>如标题</p>
+
+          </div>
         </div>
-      </a>
-    
-  </section>
 
-<section class="post-item">
-    <div class="content">
-      <a href="https://Tenqui1.github.io/post/xx-long-xiao-b-zai-zi-que-xin/">
-        <h2 class="post-title">xx龙=小b崽子（确信）</h2>
-      </a>
-      <div class="post-abstract">
         
+          <div class="next-post">
+            <a class="purple-link" href="https://Tenqui1.github.io/post/For the Patriots/">
+              <h3 class="post-title">
+                下一篇：致&lt;爱国者&gt;
+              </h3>
+            </a>
+          </div>
+          
       </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2022/07/31</span>
+
+      
         
-      </div>
-    </div>
-    
-  </section>
-
-<section class="post-item">
-    <div class="content">
-      <a href="https://Tenqui1.github.io/post/For the Patriots/">
-        <h2 class="post-title">致&lt;爱国者&gt;</h2>
-      </a>
-      <div class="post-abstract">
+          <div id="gitalk-container"></div>
         
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2022/07/30</span>
+
         
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
-            
-              <a href="https://Tenqui1.github.io/tag/uQiJkcGY6/">
-                斥
-                
-              </a>
-            
-          </span>
-        
-      </div>
-    </div>
-    
-      <a href="https://Tenqui1.github.io/post/For the Patriots/">
-        <div class="feature-container" style="background-image: url('https://Tenqui1.github.io/post-images/For the Patriots.jpg')">
-        </div>
-      </a>
-    
-  </section>
-
-
-<div class="pagination-container">
-  
-  
-</div>
-
-
-      </div>
+      
 
       <div class="site-footer">
   <div class="slogan">一个个人博客</div>
@@ -198,6 +148,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

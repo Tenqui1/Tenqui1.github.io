@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tenqui1.github.io</id>
     <title>Tenqui_blog</title>
-    <updated>2022-07-31T00:03:23.342Z</updated>
+    <updated>2022-07-31T00:07:55.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tenqui1.github.io"/>
     <link rel="self" href="https://Tenqui1.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Tenqui1.github.io/images/avatar.png</logo>
     <icon>https://Tenqui1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Tenqui_blog</rights>
+    <entry>
+        <title type="html"><![CDATA[xx龙=小b崽子（确信）]]></title>
+        <id>https://Tenqui1.github.io/post/xx-long-xiao-b-zai-zi-que-xin/</id>
+        <link href="https://Tenqui1.github.io/post/xx-long-xiao-b-zai-zi-que-xin/">
+        </link>
+        <updated>2022-07-31T00:06:17.000Z</updated>
+        <content type="html"><![CDATA[<p>如标题</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致<爱国者>]]></title>
         <id>https://Tenqui1.github.io/post/For the Patriots/</id>
