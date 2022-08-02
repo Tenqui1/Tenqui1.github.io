@@ -1,0 +1,18 @@
+.user-photo{
+    border-radius: 50%;
+}
+.userinfo-panel-option-list li{
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+.userinfo-panel-option-list .active,.userinfo-panel-option-list li:hover{
+    background-color: #5CB85C;
+    color: white;
+}

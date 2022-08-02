@@ -1,0 +1,26 @@
+.submit-agreement{
+    text-align: center;
+}
+.submit-title{
+    text-align: center;
+}
+.login-label{
+    text-align: center;
+    margin: 20px;
+}
+.layui-itbook .layui-layer-title{
+    background:#323436;
+    color:#fff;
+    text-align: center;
+    padding: 0 ;
+    font-size: 15px;
+}
+
+.layui-itbook .layui-layer-content p{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.layui-itbook .layui-layer-btn{
+    text-align: center;
+}

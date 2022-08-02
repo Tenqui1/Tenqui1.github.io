@@ -1,0 +1,59 @@
+
+.clear{
+    clear: both;
+}
+.top20per{
+    margin-top: 20px;
+}
+.top40per{
+    margin-top: 40px;
+}
+.top80per{
+    margin-top: 80px;
+}
+.bottom20per{
+    margin-bottom: 20px;
+}
+.bottom80per{
+    margin-bottom: 80px;
+}
+.top10per{
+    margin-top: 10px;
+}
+.left4per{
+    margin-left: 4%;
+}
+.left20px{
+    margin-left: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.width90{
+    width: 90%;
+}
+.right5per{
+    margin-right: 5px;
+}
+.pointer{
+    cursor: pointer;
+}
+.black:hover{
+    background-color: #101010;
+    border-color: #101010;
+    color: white;
+}
+.submit-label {
+    color: #d9534f;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.center{
+    text-align: center;
+}
+.error-label{
+    color: #d9534f;
+}
+.center-table th, .center-table td{
+    text-align: center;
+}

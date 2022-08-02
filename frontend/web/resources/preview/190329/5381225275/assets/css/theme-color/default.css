@@ -1,0 +1,121 @@
+﻿/*
+============== background Color====================
+*/
+.btn-text,
+.featured-item.feature-bg-box:hover,
+.b-line,
+.link-zoom a.project_links,
+.blog-date,
+.bg-color,
+.header .navigation ul ul li:hover > a,
+.faq .collape-plus,
+.line-h:after,
+.hi-icon-effect-3 .hi-icon:after,
+a.btn.xplus-btn.pricing.active:hover,
+a.btn.xplus-btn.pricing.active,
+.arrow_theme .owl-prev:hover,
+.arrow_theme .owl-next:hover,
+.mainmenu-area .link_btn .thm-btn,
+.bg-color,
+.post-meta .post-more-link a.btn-Blue,
+.blog-post blockquote,
+.pagination-nav ul li.active a,
+.pagination-nav ul li:hover a,
+.sidebar-widget .widget-tag li a:hover,
+.item-nav .item-prev:hover .prev-btn,
+.item-nav .item-next:hover .next-btn,
+.quote:after,
+.mainmenu-area:after,
+.header.sticky .navigation ul ul li:hover > a,
+.header .navigation ul ul li:hover > a,
+.navigation ul ul li > a:hover,
+.page-signin .body-inner:before,
+.ui-input-group .input-bar:before,
+.ui-input-group .input-bar:after {
+  background: #19b5fe;
+}
+
+/*
+============== Text Color====================
+*/
+.text-color,
+.container-filter li a.active,
+.container-filter li a:hover,
+.hi-icon-effect-3b .hi-icon,
+.service_details h5 a,
+.post-meta span > a > i,
+.header-contact-info ul li .iocn-holder span,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li > ul > li:hover > a,
+.nav_side_content .search_option form button,
+.name-text,
+.post-meta .post-more-link a.btn-Blue:hover,
+.pagination-nav ul li a,
+.sidebar-widget ul li a:hover,
+.lead-point li,
+.blog-post .fa-tag,
+.post-meta span > a > i,
+.item-nav .item-prev .prev-btn,
+.item-nav .item-next .next-btn,
+.contact .icon-circle,
+.contact-info .info li .icon,
+.btn-text:hover,
+.featured-item.feature-bg-box .icon i,
+.pricing-2 .price, .pricing-2 .currency-symbol,
+.top-bar-area p i,
+.single-sidebar-widget .special-links li:hover a,
+.single-sidebar-widget .special-links li a.active,
+.custom-check:before,
+.color-primary, a.color-primary,
+.ui-input-group > input:focus ~ label,
+.ui-input-group > textarea:focus ~ label,
+.big-font i {
+  color: #19b5fe;
+}
+
+.widget-tag li a {
+  color: #19b5fe !important;
+}
+
+.quote:before,
+.color-primary, a.color-primary:hover {
+  color: #019be3;
+}
+
+/*
+============== Border Color====================
+*/
+.btn-text,
+.pricing-2 .pricing_table.active,
+.pricing-2 .price, .pricing-2 .currency-symbol,
+a.btn.xplus-btn.pricing.active:hover,
+a.btn.xplus-btn.pricing.active,
+.arrow_theme .owl-prev:hover,
+.arrow_theme .owl-next:hover,
+.header-contact-info ul li .iocn-holder,
+.nav_side_content .search_option form,
+.post-meta .post-more-link a.btn-Blue:hover,
+.pagination-nav ul li a,
+.widget-tag li a,
+.blog-post-hr input[type="text"]:focus,
+.blog-post-hr textarea:focus,
+.item-nav .item-prev .prev-btn,
+.item-nav .item-next .next-btn,
+.contact .icon-circle,
+.single-sidebar-widget .special-links li a:before,
+.widget-search input[type="text"]:focus,
+.contact-form input[type="text"]:focus,
+.contact-form textarea:focus,
+.custom-check,
+.client-avtar {
+  border-color: #19b5fe;
+}
+
+.team-member .inner-box .overlay-box:after {
+  border-bottom-color: #19b5fe;
+}
+
+.hi-icon-effect-3 .hi-icon {
+  box-shadow: 0 0 0 4px #19b5fe;
+}

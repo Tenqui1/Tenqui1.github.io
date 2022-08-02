@@ -1,0 +1,19 @@
+.login-from{
+    width: 40%;
+    margin: 100px auto;
+    height: 500px;
+}
+.login-title{
+    text-align: center;
+}
+.login-label{
+    text-align: center;
+    margin: 20px;
+}
+
+.login-verification-code{
+
+}
+.login-verification-code-btn{
+    cursor: pointer;
+}
