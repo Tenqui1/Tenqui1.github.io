@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tenqui1.github.io</id>
     <title>Tenqui_blog</title>
-    <updated>2022-08-13T05:13:45.785Z</updated>
+    <updated>2022-08-13T12:22:35.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tenqui1.github.io"/>
     <link rel="self" href="https://Tenqui1.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://Tenqui1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Tenqui_blog</rights>
     <entry>
-        <title type="html"><![CDATA[网易云歌单推荐]]></title>
+        <title type="html"><![CDATA[网易云歌单推荐(半成品中)]]></title>
         <id>https://Tenqui1.github.io/post/wang-yi-yun-ge-dan-tui-jian/</id>
         <link href="https://Tenqui1.github.io/post/wang-yi-yun-ge-dan-tui-jian/">
         </link>
@@ -19,43 +19,51 @@
         <content type="html"><![CDATA[<p>以下是我的网易云歌单推荐，大多数是纯音乐</p>
 <p>格式：曲名-作者：网易云链接</p>
 <p>轻音乐：<br>
+<img src="https://Tenqui1.github.io/post-images/1660393125600.jpg" alt="" loading="lazy"><br>
+<a href="https://music.163.com/song?id=29759340&amp;userid=2072428303">Pluto-Nyte</a><br>
+<img src="https://Tenqui1.github.io/post-images/1660393136903.jpg" alt="" loading="lazy"><br>
+<a href="https://music.163.com/song?id=1400424646&amp;userid=2072428303">Episode 33-She Her Her Hers</a><br>
+<img src="https://Tenqui1.github.io/post-images/1660393145700.jpg" alt="" loading="lazy"><br>
 <a href="https://music.163.com/song?id=32574634&amp;userid=2072428303">I Need You-Actium</a><br>
-<a href="https://music.163.com/song?id=1849015994&amp;userid=2072428303">Memories-Dark-KINGOFJ</a><br>
-<a href="https://music.163.com/song?id=1364436690&amp;userid=2072428303">Leaving Now-Seredris</a><br>
-<a href="https://music.163.com/song?id=1413571582&amp;userid=2072428303">Starry Sky-Pam_dinosaur / Krzto</a><br>
-<a href="https://music.163.com/song?id=34834953&amp;userid=2072428303">Remember Me-Kozoro</a><br>
-<a href="https://music.163.com/song?id=36921285&amp;userid=2072428303">Melody (Original mix)-Ash</a>(英文歌)<br>
-<a href="https://music.163.com/song?id=545713144&amp;userid=2072428303">Paradigm Shift-Fractal Dreamers</a>(不知道它该分什么，就放在这里吧)</p>
-<p>氛围系：<br>
-<a href="https://music.163.com/song?id=3932224&amp;userid=2072428303">Even While-Approaching Nirvana</a>(大多数人是从病毒No escape来的，演示病毒时经常有人用)<br>
-<a href="https://music.163.com/song?id=1376075781&amp;userid=2072428303">Stay The Night(情深一夜)-Just Kiddin / Camden Cox</a>(燃)<br>
-<a href="https://music.163.com/song?id=1377642003&amp;userid=2072428303">Time to Pretend(伪装时刻)-Lazer Boomerang</a></p>
-<p>欢快系：<br>
-<a href="https://music.163.com/song?id=1356059919&amp;userid=2072428303">Cloud-阳花</a><br>
-<a href="https://music.163.com/song?id=1478565043&amp;userid=2072428303">Inside-PIKASONIC</a><br>
-<a href="https://music.163.com/song?id=1301572751&amp;userid=2072428303">Intro-BlackY</a>(我的最爱)<br>
-<a href="https://music.163.com/song?id=1934251776&amp;userid=2072428303">小城夏天-LBI利比</a>(中文歌)</p>
-<p>可爱系：<br>
-<a href="https://music.163.com/song?id=1405722811&amp;userid=2072428303">砂糖-饼饼</a><br>
-<a href="https://music.163.com/song?id=1836421270&amp;userid=2072428303">Cutter-EmoCosine</a>(日系，本曲VM有血腥，暴力内容，请酌情观看，听还是可以的)<br>
-<a href="https://music.163.com/song?id=1838044718&amp;userid=2072428303">Sokka-you</a>(日系，类似于Cutter，但没有刀子，请先去听/看Cutter以确定你对这类歌曲不厌恶再听这首歌)<br>
-<a href="https://music.163.com/song?id=1892833640&amp;userid=2072428303">Delusion-EmoCosine</a>(日系，类似于Cutter，但有刀子，请先去听/看Cutter以确定你对这类歌曲不厌恶再听这首歌)<br>
-<a href="https://music.163.com/song?id=409941728&amp;userid=2072428303">Whispy-Hyleo / Ollygon</a></p>
-<p>注：以下所有音乐可能有些伤感，请酌情收听<br>
-<a href="https://music.163.com/song?id=4064255&amp;userid=2072428303">A Minute For The End-Endless Melancholy</a><br>
-<a href="https://music.163.com/song?id=409302035&amp;userid=2072428303">The Garden of Escapism (AK Remix)-AK/Miro</a><br>
-<a href="https://music.163.com/song?id=533080888&amp;userid=2072428303">Yakitori-Noicybino</a><br>
-<a href="https://music.163.com/song?id=546158299&amp;userid=2072428303">把 你 锁 在 空 荡 的 房 间 里-Chisanahana</a><br>
-<a href="https://music.163.com/song?id=4346235&amp;userid=2072428303"><em>Ø</em>-the tumbled sea</a><br>
-<a href="https://music.163.com/song?id=462516170&amp;userid=2072428303">Ascended Vibrations-Téo?</a><br>
-<a href="https://music.163.com/song?id=30375354&amp;userid=2072428303">Still-Timirage</a><br>
-<a href="https://music.163.com/song?id=38018486&amp;userid=2072428303">Collapsing World(崩溃的世界)-Lightscape</a><br>
-<a href="https://music.163.com/song?id=430297530&amp;userid=2072428303">Afar, We Stand-Vexaic</a><br>
-英文歌：<a href="https://music.163.com/song?id=565841089&amp;userid=2072428303">Falling Again-Nurko / Roniit</a><br>
-<a href="https://music.163.com/song?id=1313584359&amp;userid=2072428303">So Far Away (Acoustic)-Adam Christopher</a><br>
-<a href="https://music.163.com/song?id=425684928&amp;userid=2072428303">Go Solo-Tom Rosenthal</a><br>
-<a href="https://music.163.com/song?id=498090956&amp;userid=2072428303">Cause You`re Alive-BrighterThan</a><br>
-<a href="https://music.163.com/song?id=407002778&amp;userid=2072428303">Memories-Sappheiros</a><br>
+<img src="https://Tenqui1.github.io/post-images/1660393162117.jpg" alt="" loading="lazy"><br>
+<a href="https://music.163.com/song?id=1849015994&amp;userid=2072428303">Memories-Dark-KINGOFJ</a></p>
+<p><a href="https://music.163.com/song?id=1364436690&amp;userid=2072428303">Leaving Now-Seredris</a></p>
+<p><a href="https://music.163.com/song?id=1413571582&amp;userid=2072428303">Starry Sky-Pam_dinosaur / Krzto</a></p>
+<p><a href="https://music.163.com/song?id=34834953&amp;userid=2072428303">Remember Me-Kozoro</a></p>
+<p><a href="https://music.163.com/song?id=36921285&amp;userid=2072428303">Melody (Original mix)-Ash</a>(英文歌)</p>
+<p><a href="https://music.163.com/song?id=545713144&amp;userid=2072428303">Paradigm Shift-Fractal Dreamers</a>(不知道它该分什么，就放在这里吧)</p>
+<p>氛围系：</p>
+<p><a href="https://music.163.com/song?id=3932224&amp;userid=2072428303">Even While-Approaching Nirvana</a>(大多数人是从病毒No escape来的，演示病毒时经常有人用)</p>
+<p><a href="https://music.163.com/song?id=1376075781&amp;userid=2072428303">Stay The Night(情深一夜)-Just Kiddin / Camden Cox</a>(燃)</p>
+<p><a href="https://music.163.com/song?id=1377642003&amp;userid=2072428303">Time to Pretend(伪装时刻)-Lazer Boomerang</a></p>
+<p>欢快系：</p>
+<p><a href="https://music.163.com/song?id=1319347101&amp;userid=2072428303">Breeze</a></p>
+<p><a href="https://music.163.com/song?id=1356059919&amp;userid=2072428303">Cloud-阳花</a></p>
+<p><a href="https://music.163.com/song?id=1478565043&amp;userid=2072428303">Inside-PIKASONIC</a></p>
+<p><a href="https://music.163.com/song?id=1301572751&amp;userid=2072428303">Intro-BlackY</a>(我的最爱)</p>
+<p><a href="https://music.163.com/song?id=1934251776&amp;userid=2072428303">小城夏天-LBI利比</a>(中文歌)</p>
+<p>可爱系：</p>
+<p><a href="https://music.163.com/song?id=1405722811&amp;userid=2072428303">砂糖-饼饼</a></p>
+<p><a href="https://music.163.com/song?id=1836421270&amp;userid=2072428303">Cutter-EmoCosine</a><br>
+(日系，本曲VM有血腥，暴力内容，请酌情观看，听还是可以的)</p>
+<p><a href="https://music.163.com/song?id=1838044718&amp;userid=2072428303">Sokka-you</a>(日系，类似于Cutter，但没有刀子，请先去听/看Cutter以确定你对这类歌曲不厌恶再听这首歌)</p>
+<p><a href="https://music.163.com/song?id=1892833640&amp;userid=2072428303">Delusion-EmoCosine</a>(日系，类似于Cutter，但有刀子，请先去听/看Cutter以确定你对这类歌曲不厌恶再听这首歌)</p>
+<p><a href="https://music.163.com/song?id=409941728&amp;userid=2072428303">Whispy-Hyleo / Ollygon</a></p>
+<p>注：以下所有音乐可能有些伤感，请酌情收听</p>
+<p><a href="https://music.163.com/song?id=4064255&amp;userid=2072428303">A Minute For The End-Endless Melancholy</a></p>
+<p><a href="https://music.163.com/song?id=409302035&amp;userid=2072428303">The Garden of Escapism (AK Remix)-AK/Miro</a></p>
+<p><a href="https://music.163.com/song?id=533080888&amp;userid=2072428303">Yakitori-Noicybino</a></p>
+<p><a href="https://music.163.com/song?id=546158299&amp;userid=2072428303">把 你 锁 在 空 荡 的 房 间 里-Chisanahana</a></p>
+<p><a href="https://music.163.com/song?id=4346235&amp;userid=2072428303"><em>Ø</em>-the tumbled sea</a></p>
+<p><a href="https://music.163.com/song?id=462516170&amp;userid=2072428303">Ascended Vibrations-Téo?</a></p>
+<p><a href="https://music.163.com/song?id=30375354&amp;userid=2072428303">Still-Timirage</a></p>
+<p><a href="https://music.163.com/song?id=38018486&amp;userid=2072428303">Collapsing World(崩溃的世界)-Lightscape</a></p>
+<p><a href="https://music.163.com/song?id=430297530&amp;userid=2072428303">Afar, We Stand-Vexaic</a></p>
+<p>英文歌：<a href="https://music.163.com/song?id=565841089&amp;userid=2072428303">Falling Again-Nurko / Roniit</a></p>
+<p><a href="https://music.163.com/song?id=1313584359&amp;userid=2072428303">So Far Away (Acoustic)-Adam Christopher</a></p>
+<p><a href="https://music.163.com/song?id=425684928&amp;userid=2072428303">Go Solo-Tom Rosenthal</a></p>
+<p><a href="https://music.163.com/song?id=498090956&amp;userid=2072428303">Cause You`re Alive-BrighterThan</a></p>
+<p><a href="https://music.163.com/song?id=407002778&amp;userid=2072428303">Memories-Sappheiros</a><br>
 歌名和作者是分开输入的，在歌单中分类，逐个添加超链接和上传都特别费时费力，因此，转载请说明出处</p>
 <p>我歌单里的几乎所有歌曲都在这篇文章，这是<a href="https://music.163.com/playlist?id=3114119473&amp;userid=2072428303">我的歌单</a></p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4064255&auto=1&height=66"></iframe>
