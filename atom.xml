@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tenqui1.github.io</id>
     <title>Tenqui_blog</title>
-    <updated>2022-08-13T12:25:46.510Z</updated>
+    <updated>2022-08-13T12:29:21.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tenqui1.github.io"/>
     <link rel="self" href="https://Tenqui1.github.io/atom.xml"/>
@@ -19,14 +19,10 @@
         <content type="html"><![CDATA[<p>以下是我的网易云歌单推荐，大多数是纯音乐</p>
 <p>格式：曲名-作者：网易云链接</p>
 <p>轻音乐：<br>
-<img src="https://Tenqui1.github.io/post-images/1660393125600.jpg" alt="" loading="lazy"><br>
-<a href="https://music.163.com/song?id=29759340&amp;userid=2072428303">Pluto-Nyte</a><br>
-<img src="https://Tenqui1.github.io/post-images/1660393136903.jpg" alt="" loading="lazy"><br>
-<a href="https://music.163.com/song?id=1400424646&amp;userid=2072428303">Episode 33-She Her Her Hers</a><br>
-<img src="https://Tenqui1.github.io/post-images/1660393145700.jpg" alt="" loading="lazy"><br>
-<a href="https://music.163.com/song?id=32574634&amp;userid=2072428303">I Need You-Actium</a><br>
-<img src="https://Tenqui1.github.io/post-images/1660393162117.jpg" alt="" loading="lazy"><br>
-<a href="https://music.163.com/song?id=1849015994&amp;userid=2072428303">Memories-Dark-KINGOFJ</a></p>
+<img src="https://Tenqui1.github.io/post-images/1660393125600.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=29759340&amp;userid=2072428303">Pluto-Nyte</a><br>
+<img src="https://Tenqui1.github.io/post-images/1660393136903.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=1400424646&amp;userid=2072428303">Episode 33-She Her Her Hers</a><br>
+<img src="https://Tenqui1.github.io/post-images/1660393145700.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=32574634&amp;userid=2072428303">I Need You-Actium</a><br>
+<img src="https://Tenqui1.github.io/post-images/1660393162117.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=1849015994&amp;userid=2072428303">Memories-Dark-KINGOFJ</a></p>
 <p><a href="https://music.163.com/song?id=1364436690&amp;userid=2072428303">Leaving Now-Seredris</a></p>
 <p><a href="https://music.163.com/song?id=1413571582&amp;userid=2072428303">Starry Sky-Pam_dinosaur / Krzto</a></p>
 <p><a href="https://music.163.com/song?id=34834953&amp;userid=2072428303">Remember Me-Kozoro</a></p>
