@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tenqui1.github.io</id>
     <title>Tenqui_blog</title>
-    <updated>2022-08-13T12:29:21.879Z</updated>
+    <updated>2022-08-13T13:41:11.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tenqui1.github.io"/>
     <link rel="self" href="https://Tenqui1.github.io/atom.xml"/>
@@ -18,11 +18,11 @@
         <updated>2022-08-09T06:15:15.000Z</updated>
         <content type="html"><![CDATA[<p>以下是我的网易云歌单推荐，大多数是纯音乐</p>
 <p>格式：曲名-作者：网易云链接</p>
-<p>轻音乐：<br>
-<img src="https://Tenqui1.github.io/post-images/1660393125600.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=29759340&amp;userid=2072428303">Pluto-Nyte</a><br>
-<img src="https://Tenqui1.github.io/post-images/1660393136903.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=1400424646&amp;userid=2072428303">Episode 33-She Her Her Hers</a><br>
-<img src="https://Tenqui1.github.io/post-images/1660393145700.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=32574634&amp;userid=2072428303">I Need You-Actium</a><br>
-<img src="https://Tenqui1.github.io/post-images/1660393162117.jpg" alt="" loading="lazy"><a href="https://music.163.com/song?id=1849015994&amp;userid=2072428303">Memories-Dark-KINGOFJ</a></p>
+<p>轻音乐：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29759340&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1400424646&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=32574634&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1849015994&auto=0&height=66"></iframe>
 <p><a href="https://music.163.com/song?id=1364436690&amp;userid=2072428303">Leaving Now-Seredris</a></p>
 <p><a href="https://music.163.com/song?id=1413571582&amp;userid=2072428303">Starry Sky-Pam_dinosaur / Krzto</a></p>
 <p><a href="https://music.163.com/song?id=34834953&amp;userid=2072428303">Remember Me-Kozoro</a></p>
@@ -33,11 +33,16 @@
 <p><a href="https://music.163.com/song?id=1376075781&amp;userid=2072428303">Stay The Night(情深一夜)-Just Kiddin / Camden Cox</a>(燃)</p>
 <p><a href="https://music.163.com/song?id=1377642003&amp;userid=2072428303">Time to Pretend(伪装时刻)-Lazer Boomerang</a></p>
 <p>欢快系：</p>
-<p><a href="https://music.163.com/song?id=1319347101&amp;userid=2072428303">Breeze</a></p>
-<p><a href="https://music.163.com/song?id=1356059919&amp;userid=2072428303">Cloud-阳花</a></p>
-<p><a href="https://music.163.com/song?id=1478565043&amp;userid=2072428303">Inside-PIKASONIC</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1319347101&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=412016123&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1356059919&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1478565043&auto=0&height=66"></iframe>
 <p><a href="https://music.163.com/song?id=1301572751&amp;userid=2072428303">Intro-BlackY</a>(我的最爱)</p>
-<p><a href="https://music.163.com/song?id=1934251776&amp;userid=2072428303">小城夏天-LBI利比</a>(中文歌)</p>
+<p><a href="https://music.163.com/song?id=1934251776&amp;userid=2072428303">小城夏天-LBI利比</a>(中文歌)<br>
+PIKASONIC特辑（这么都这么喜欢aaa）：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1357730882&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1899317143&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1305100638&auto=1&height=66"></iframe>
 <p>可爱系：</p>
 <p><a href="https://music.163.com/song?id=1405722811&amp;userid=2072428303">砂糖-饼饼</a></p>
 <p><a href="https://music.163.com/song?id=1836421270&amp;userid=2072428303">Cutter-EmoCosine</a><br>
@@ -63,7 +68,6 @@
 歌名和作者是分开输入的，在歌单中分类，逐个添加超链接和上传都特别费时费力，因此，转载请说明出处</p>
 <p>我歌单里的几乎所有歌曲都在这篇文章，这是<a href="https://music.163.com/playlist?id=3114119473&amp;userid=2072428303">我的歌单</a></p>
 <p>无论您如何看待此文章，请尊重他人的劳动成果。</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4064255&auto=1&height=66"></iframe>
 ]]></content>
     </entry>
     <entry>
