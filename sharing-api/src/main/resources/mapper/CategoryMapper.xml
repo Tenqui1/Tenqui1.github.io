@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yn.dao.CategoryMapper">
+
+  <sql id="Base_Column_List">
+    id, avatar, categoryname, description
+  </sql>
+  
+  <select id="findAll" resultType="com.yn.entity.Category">
+    select 
+    <include refid="Base_Column_List" />
+    from me_category
+  </select>
+  
+  <select id="findAllDetail" resultType="com.yn.vo.CategoryVO">
+    select 
+    c.avatar, c.categoryname, c.description,
+    (select count(1) from article a where a.category_id = c.id ) as articles
+    from me_category c
+  </select>
+  
+  <select id="getCategoryDetail" resultType="com.yn.vo.CategoryVO" parameterType="java.lang.Integer">
+    select 
+    c.avatar, c.categoryname, c.description,
+    (select count(1) from article a where a.category_id = c.id ) as articles
+    from me_category c
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  
+</mapper>
